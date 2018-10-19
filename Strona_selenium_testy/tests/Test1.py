@@ -20,7 +20,7 @@ class Test1():
         else:
             ("Coś poszło nie tak")
 
-        print("Test1 - passed")
+        print("Test1 - passed!")
 
         driver.close()
 
