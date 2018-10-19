@@ -21,6 +21,7 @@ class Test1():
             ("Coś poszło nie tak")
 
         print("Test1 - passed!!!!")
+        print("Brawo")
 
         driver.close()
 
