@@ -1,0 +1,105 @@
+1538600056129	geckodriver	INFO	geckodriver 0.19.1
+1538600056139	geckodriver	INFO	Listening on 127.0.0.1:51909
+1538600058141	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Grzesiek\\AppData\\Local\\Temp\\rust_mozprofile.5yzWK0YfUEgT"
+1538600059618	Marionette	INFO	Listening on port 51915
+1538600059662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538600059693	Marionette	DEBUG	[6442450945] Frame script loaded
+1538600059709	Marionette	DEBUG	[6442450945] Frame script registered
+1538600059752	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538600060264	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538600060462	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://konto.onet.pl/auth.html?app_id=poczta.onet.pl.front.onetapi.pl
+JavaScript warning: https://ocdn.eu/files/deploy/MzU7MDA_/3626975cee950104c6d12c31a285e3e3.js, line 1: unreachable code after return statement
+1538600061317	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://konto.onet.pl/auth.html?app_id=poczta.onet.pl.front.onetapi.pl
+1538600061730	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1538600061754	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://konto.onet.pl/auth.html?app_id=poczta.onet.pl.front.onetapi.pl
+1538600062466	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://konto.onet.pl/auth.html?app_id=poczta.onet.pl.front.onetapi.pl
+1538600062467	Marionette	DEBUG	[6442450945] Received DOM event unload for https://konto.onet.pl/auth.html?app_id=poczta.onet.pl.front.onetapi.pl
+JavaScript error: https://ocdn.eu/ramp/1746213/Banner-Standard/tpl.min.js, line 1: TypeError: c.frameElement is null
+JavaScript error: https://ocdn.eu/ramp/1746213/Banner-Standard/tpl.min.js, line 1: TypeError: c.frameElement is null
+1538600062839	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1538600062840	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450967
+1538600062840	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1538600062840	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1538600062840	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1538600062840	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1538600062840	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1538600062841	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1538600062841	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1538600062841	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1538600062994	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://poczta.onet.pl/index.html
+JavaScript error: https://ocdn.eu/adp/prebid/prod/prebid.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+1538600064505	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450993
+1538600064505	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450988
+1538600065137	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://poczta.onet.pl/index.html#/Odebrane
+[Parent 6116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538600073953	Marionette	INFO	Stopped listening on port 51915
+[GPU 3592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538600193441	geckodriver	INFO	geckodriver 0.19.1
+1538600193451	geckodriver	INFO	Listening on 127.0.0.1:52028
+1538600195461	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Grzesiek\\AppData\\Local\\Temp\\rust_mozprofile.tOifVP01kpWS"
+1538600196914	Marionette	INFO	Listening on port 52034
+1538600197027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538600197058	Marionette	DEBUG	[6442450945] Frame script loaded
+1538600197062	Marionette	DEBUG	[6442450945] Frame script registered
+1538600197094	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538600197624	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538600197749	Marionette	DEBUG	[6442450945] Received DOM event unload for https://konto.onet.pl/auth.html?app_id=poczta.onet.pl.front.onetapi.pl
+1538600197750	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+1538600197763	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+observe@AsyncShutdown.jsm:541:9
+[Parent 3912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[Child 5372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538600197987	Marionette	INFO	Stopped listening on port 52034
+[GPU 5652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538600320237	geckodriver	INFO	geckodriver 0.19.1
+1538600320247	geckodriver	INFO	Listening on 127.0.0.1:52058
+1538600322247	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Grzesiek\\AppData\\Local\\Temp\\rust_mozprofile.6T2UlOcaozgX"
+1538600323683	Marionette	INFO	Listening on port 52064
+1538600323764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538600323796	Marionette	DEBUG	[6442450945] Frame script loaded
+1538600323806	Marionette	DEBUG	[6442450945] Frame script registered
+1538600323842	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538600324281	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538600324391	Marionette	DEBUG	[6442450945] Received DOM event unload for https://konto.onet.pl/auth.html?app_id=poczta.onet.pl.front.onetapi.pl
+1538600324392	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+1538600324405	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+observe@AsyncShutdown.jsm:541:9
+[Parent 4768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538600324635	Marionette	INFO	Stopped listening on port 52064
+[GPU 6560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346

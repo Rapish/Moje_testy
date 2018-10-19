@@ -1,0 +1,149 @@
+1538003335498	geckodriver	INFO	geckodriver 0.19.1
+1538003335508	geckodriver	INFO	Listening on 127.0.0.1:51629
+1538003337508	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Grzesiek\\AppData\\Local\\Temp\\rust_mozprofile.E2XMPtq2ZNG3"
+1538003339141	Marionette	INFO	Listening on port 51635
+1538003339531	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Grzesiek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ocdn.eu/files/deploy/MzU7MDA_/3626975cee950104c6d12c31a285e3e3.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Grzesiek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Grzesiek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Grzesiek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5272, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+Unable to read VR Path Registry from C:\Users\Grzesiek\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+cc, line 346
+[Child 1028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Grzesiek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Grzesiek\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538003457125	geckodriver	INFO	geckodriver 0.19.1
+1538003457135	geckodriver	INFO	Listening on 127.0.0.1:51751
+1538003459135	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Grzesiek\\AppData\\Local\\Temp\\rust_mozprofile.XQviGVOQsht4"
+1538003460608	Marionette	INFO	Listening on port 51757
+1538003460735	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Grzesiek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ocdn.eu/files/deploy/MzU7MDA_/3626975cee950104c6d12c31a285e3e3.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Grzesiek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Grzesiek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Grzesiek\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538003588827	geckodriver	INFO	geckodriver 0.19.1
+1538003588827	geckodriver	INFO	Listening on 127.0.0.1:51813
+1538003590837	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Grzesiek\\AppData\\Local\\Temp\\rust_mozprofile.WVqModxpNIx7"
+1538003592286	Marionette	INFO	Listening on port 51819
+1538003592346	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Grzesiek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ocdn.eu/files/deploy/MzU7MDA_/3626975cee950104c6d12c31a285e3e3.js, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Grzesiek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Grzesiek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538603313864	geckodriver	INFO	geckodriver 0.19.1
+1538603313864	geckodriver	INFO	Listening on 127.0.0.1:52655
+1538603315884	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Grzesiek\\AppData\\Local\\Temp\\rust_mozprofile.AxyObXeFfsVe"
+1538603317327	Marionette	INFO	Listening on port 52662
+1538603317398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538603317431	Marionette	DEBUG	[6442450945] Frame script loaded
+1538603317460	Marionette	DEBUG	[6442450945] Frame script registered
+1538603317485	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538603317955	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538603318161	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://konto.onet.pl/auth.html?app_id=poczta.onet.pl.front.onetapi.pl
+JavaScript warning: https://ocdn.eu/files/deploy/MzU7MDA_/3626975cee950104c6d12c31a285e3e3.js, line 1: unreachable code after return statement
+1538603319006	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://konto.onet.pl/auth.html?app_id=poczta.onet.pl.front.onetapi.pl
+1538603319404	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1538603319442	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://konto.onet.pl/auth.html?app_id=poczta.onet.pl.front.onetapi.pl
+1538603320345	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://konto.onet.pl/auth.html?app_id=poczta.onet.pl.front.onetapi.pl
+1538603320349	Marionette	DEBUG	[6442450945] Received DOM event unload for https://konto.onet.pl/auth.html?app_id=poczta.onet.pl.front.onetapi.pl
+1538603320796	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1538603320796	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1538603320797	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1538603320797	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1538603320797	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1538603320797	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450967
+1538603320797	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1538603320797	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1538603320797	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1538603320798	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1538603320798	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1538603320798	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1538603320798	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1538603320798	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1538603320798	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1538603321217	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://poczta.onet.pl/index.html#/
+JavaScript error: https://ocdn.eu/adp/prebid/prod/prebid.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+1538603323251	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451005
+1538603323252	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450998
+1538603323516	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451009
+JavaScript warning: https://demis.awangarda.nscontext.eu/?masterId=mi1663be7ae275ccae05be01f302b, line 30: unreachable code after return statement
+JavaScript error: https://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html, line 12: SecurityError: Permission denied to access property "document" on cross-origin object
+1538603326406	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://poczta.onet.pl/index.html#/
+[Child 6112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6524, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1538603330692	Marionette	INFO	Stopped listening on port 52662
